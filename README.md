@@ -70,7 +70,7 @@ _**Ref 7:** Created a Slack channel for alerts and connected it to Tines_
 
 ![Screenshot 2024-08-10 160812](https://github.com/user-attachments/assets/c202f8cc-b551-46ef-ab32-3a39c7ee184e)
 
-_**Ref 8:** Built out reamining automation in Tines_
+_**Ref 8:** Built out remaining automation in Tines_
 
 -----
 
